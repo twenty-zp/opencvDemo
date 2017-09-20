@@ -342,7 +342,7 @@
 					"$(PROJECT_DIR)/opencvDemo",
 				);
 				GCC_INPUT_FILETYPE = sourcecode.cpp.objcpp;
-				GCC_PREFIX_HEADER = /Users/ilogiemac01/Desktop/opencvDemo/opencvDemo/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/opencvDemo/PrefixHeader.pch";
 				INFOPLIST_FILE = opencvDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zp.i;
@@ -362,7 +362,7 @@
 					"$(PROJECT_DIR)/opencvDemo",
 				);
 				GCC_INPUT_FILETYPE = sourcecode.cpp.objcpp;
-				GCC_PREFIX_HEADER = /Users/ilogiemac01/Desktop/opencvDemo/opencvDemo/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/opencvDemo/PrefixHeader.pch";
 				INFOPLIST_FILE = opencvDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zp.i;
