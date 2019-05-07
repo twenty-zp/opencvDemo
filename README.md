@@ -9,3 +9,5 @@ iOS版本,仿名片全能王动画效果
 2.在TARGETS -> General -> Linked Frameworks andLibraries 中添加如下framework: opencv2.framework、UIKit.framework、QuartzCore.framework、
 Photos.framework、CoreVideo.framework、CoreMedia.framework、
 CoreGraphics.framework、AVFoundation.frame、AssetsLibrary.framwork
+
+[博客地址](https://img421.com/2017/09/19/opencv-fang-mingpian-quannengwang/)
